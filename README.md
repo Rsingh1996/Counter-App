@@ -1,3 +1,3 @@
 # Counter App
 
-App Link :: "http://rsingh1996.github.io/counter-app"
+App Link : https://rsingh1996.github.io/Counter-App/
